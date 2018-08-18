@@ -1,4 +1,5 @@
 # timetable
+This game needs python2.7 to work
 This Python script is a timetables game in combination with Raspberry PI connected to some elecrtonic devices (via http://wiringpi.com/):
 + it generates automatically a multiplication
 + it asks the result:
